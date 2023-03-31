@@ -1,6 +1,6 @@
 Name:		texlive-selinput
 Version:	53098
-Release:	1
+Release:	2
 Summary:	Semi-automatic detection of input encoding
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/selinput
