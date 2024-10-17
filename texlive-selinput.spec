@@ -3,7 +3,7 @@ Version:	53098
 Release:	2
 Summary:	Semi-automatic detection of input encoding
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/selinput
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/selinput
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/selinput.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/selinput.doc.r%{version}.tar.xz
